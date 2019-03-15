@@ -1,0 +1,2 @@
+print ("Good_bye_world!")
+print ("Good_bye")
